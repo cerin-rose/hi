@@ -1,0 +1,54 @@
+*{
+    font-family:comic sans ms;
+    background-color: #8294C4;
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    padding: 0;
+    line-height: 1.6;
+    color: aliceblue;
+    
+
+}
+
+
+h1 {
+  font-size: 5em;
+
+}
+.btn{
+  display:block;
+  text-align: center;
+  align-items: center;
+  
+}
+button{
+    color: black;
+    font-size: 20px;
+    font-weight: 100%;
+    background-color: #DBDFEA;
+    border-radius: 50px;
+    border: 5px solid black;
+
+    
+    padding: 10px ;
+    height: 4080%;
+    width: 150px;
+}
+button:hover{
+  background-color: #BFCCB5;
+  color: black;
+  border: 5px solid black;
+  cursor: pointer;
+}
+.container{
+  margin-top: 15%;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.vdo{
+  align-items: center;
+  text-align: center;
+
+}
